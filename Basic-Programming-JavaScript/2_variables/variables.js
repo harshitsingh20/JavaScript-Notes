@@ -16,7 +16,7 @@ console.log(firstName + " " + lastName);
 
 // Change value
 
-firstName = "Ankit"             // We cvan also decleare var + variable name 
+firstName = "Ankit"             // We can also decleare var + variable name 
 
 console.log(firstName + " " + lastName);
 

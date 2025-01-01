@@ -48,7 +48,7 @@ let abc = "Hello my name is Harshit and i have lot\"s of apples"
 console.log(abc);
 
 
-// 5) Finding String in a String
+// 5) Finding Starting in a String
 
 let har = "Hello My name is Ankit"
 console.log(har.indexOf('Ankit', 3));
